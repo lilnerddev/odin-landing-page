@@ -230,6 +230,7 @@ button:hover {
 .footer {
     background-color: var(--dark-bg-color);
     color: var(--primary-color);
+    flex: 0 0 auto;
     display: flex;
     justify-content: center;
     align-items: center;
